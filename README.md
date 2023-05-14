@@ -4,6 +4,7 @@ This repository contains a machine learning (ML) project for pneumonia detection
 ## Project Overview
 Pneumonia is a respiratory infection that affects the lungs and can be life-threatening, especially in vulnerable populations. Early and accurate diagnosis of pneumonia plays a crucial role in providing timely medical intervention and improving patient outcomes.
 Artificial intelligence (AI) in medical diagnosis has shown promising results in various applications, including pneumonia detection. ML models, particularly CNNs, have proven effective in analyzing medical images and detecting pneumonia-associated patterns.
+
 In this project, we leverage transfer learning, which utilizes pre-trained models such as DenseNet and ResNet, to benefit from their learned features. Transfer learning helps us overcome the limitations of limited training data by leveraging knowledge gained from large-scale datasets in related tasks.
 Computer vision techniques are employed to process medical images and extract meaningful features. CNNs, designed explicitly for visual data, automatically learn features from chest X-ray images, aiding in pneumonia detection.
 ## Repository Contents
